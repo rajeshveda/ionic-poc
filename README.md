@@ -17,3 +17,9 @@ Then, you should run ionic serve to make sure the project loads.
 Run the following command to build for android device
 
 ionic cordova run android
+
+# IOS Testing
+
+Run the following command to build for android device
+
+ionic cordova run ios
