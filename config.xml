@@ -97,8 +97,8 @@
     <plugin name="cordova.plugins.diagnostic" spec="4.0.10" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="2.1.3" />
     <plugin name="cordova-plugin-googlemaps" spec="2.1.1">
-        <variable name="API_KEY_FOR_ANDROID" value="AIzaSyAQWvwZ02phrPpZs97LxVoSjFEopNz2GjU" />
-        <variable name="API_KEY_FOR_IOS" value="AIzaSyAQWvwZ02phrPpZs97LxVoSjFEopNz2GjU" />
+        <variable name="API_KEY_FOR_ANDROID" value="dummy" />
+        <variable name="API_KEY_FOR_IOS" value="dummy" />
         <variable name="LOCATION_WHEN_IN_USE_DESCRIPTION" value="Find IEEE members and meetups based on your current location." />
         <variable name="LOCATION_ALWAYS_USAGE_DESCRIPTION" value="Find IEEE members and meetups based on your current location." />
     </plugin>
